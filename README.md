@@ -30,6 +30,7 @@ Create a HTML file to implement form based input and output.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -89,9 +90,9 @@ h1 {
   </div>
 </body>
 </html>
-
+```
 ## SERVER SIDE PROCESSING:
-![alt text](image.png)
+![alt text](<Screenshot 2024-04-05 041517.png>)
 
 ## HOMEPAGE:
 ![alt text](<Screenshot 2024-04-05 041502.png>)
